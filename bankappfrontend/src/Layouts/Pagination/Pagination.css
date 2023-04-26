@@ -1,0 +1,30 @@
+#pagination-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#pagination-container{
+    font-size: 20px;
+    line-height: 20px;
+}
+.lr{
+    font-weight: 700;
+    height: 25px;
+    width: 25px;
+    color: white;
+    background-color: #494a49;
+    text-align: center;
+    border-radius: 13px;
+}
+.lr:hover{
+    line-height: 16px;
+    border: 2px solid rgb(0, 0, 0);
+    color: #000000;
+    background-color: #757474;
+    cursor: pointer;
+}
+.count{
+    font-size: 15px;
+    color: rgb(199, 199, 199);
+}

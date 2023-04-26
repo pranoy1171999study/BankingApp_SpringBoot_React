@@ -1,0 +1,10 @@
+.passbook-info-box{
+    height: 20px;
+    width: fit-content;
+    background-color: #ffffff00;
+    color: rgb(223, 223, 223);
+    position: absolute;
+    right: 50px;
+    bottom: 20px;
+    font-size: 18px;
+}

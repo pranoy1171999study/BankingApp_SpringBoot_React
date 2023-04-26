@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    color: white !important;
+    margin-left: 20px;
+}
+.navbar-nav>li{
+    margin-left: 10px; 
+}
+.navbar-nav>li>a{
+    text-decoration: none;
+    color: aliceblue;
+}

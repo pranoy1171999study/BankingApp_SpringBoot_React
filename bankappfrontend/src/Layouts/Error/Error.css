@@ -1,0 +1,13 @@
+#err-container{
+    height: calc(100vh - 205px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#err-img{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url("../../Assets/error-icon-png-15.jpg");
+}

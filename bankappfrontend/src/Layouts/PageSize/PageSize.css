@@ -1,0 +1,10 @@
+#page-size{
+    height: 25px;
+    width: 60px;
+    background-color: #fff;
+    margin-left: 20px;
+    outline: none;
+    padding: 2px;
+    font-size: 13px;
+    text-align: center;
+}
